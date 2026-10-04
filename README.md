@@ -12,7 +12,21 @@
 ![](https://streak-stats.demolab.com/?user=abhishekanandtiwari&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhishekanandtiwari&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/abhishekanandtiwari/abhishekanandtiwari/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://komarev.com/ghpvc/?username=abhishekanandtiwari&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🚀 Featured Projects
+
+⭐ Full Stack MERN Application
+
+⭐ Data Structures & Algorithms Repository
+
+⭐ Portfolio Website
+
+⭐ Machine Learning Projects
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
